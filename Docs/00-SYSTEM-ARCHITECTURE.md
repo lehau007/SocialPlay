@@ -78,7 +78,7 @@
 │  ├─ Message Service    │    │  └─ Trend Detection         │
 │  ├─ Notification Svc   │    │                             │
 │  ├─ Media Service      │    │  Tech: Python/FastAPI       │
-│  └─ Analytics Service  │    │  Framework: TensorFlow      │
+│  └─ Analytics Service  │    │  Framework: Pytorch      │
 │                        │    │  ML Models: Custom trained  │
 │  Tech: Node.js/Express │    └─────────────────────────────┘
 │  OR Python/FastAPI     │              │
